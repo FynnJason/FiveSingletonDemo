@@ -274,14 +274,3 @@ class InnerStaticSingleton private constructor() {
 ```
 
 很简单，内部用object创建一个内部Holder单例，外部一个getInstance来获取的方法。也相当于是Java翻译过来的方式。
-
-# 三、总结
-为了方便大家，我创建了一个项目，专门供大家对比学习。
-
-这是Github项目，里面有详细的代码注释。如果对你有帮助，欢迎大家star，谢谢！
-
-https://github.com/FynnJason/FiveSingletonDemo
-
-如果本文对你有帮助，欢迎点赞，赞赏请我喝杯Java...
-
-如果有什么疑问，下方评论留言...
