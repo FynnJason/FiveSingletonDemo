@@ -5,7 +5,7 @@ http://www.jianshu.com/p/bdaf68599bad
 
 java方式在java包中，[点这里快速查看](https://github.com/FynnJason/FiveSingletonDemo/tree/master/app/src/main/java/app/fynnjason/fivesingletondemo/java)
 
-kotlin方式在kotlin包中[点这里快速查看](https://github.com/FynnJason/FiveSingletonDemo/tree/master/app/src/main/java/app/fynnjason/fivesingletondemo/kotlin)
+kotlin方式在kotlin包中，[点这里快速查看](https://github.com/FynnJason/FiveSingletonDemo/tree/master/app/src/main/java/app/fynnjason/fivesingletondemo/kotlin)
 
 
 # 一、前言
